@@ -7,5 +7,5 @@ export default defineConfig({
   // If deploying to https://<username>.github.io/<repo-name> (a project site),
   // set this to '/<repo-name>/'. If deploying to https://<username>.github.io
   // (a user site, repo named exactly <username>.github.io), leave it as '/'.
-  base: '/',
+  base: '/dhaniel.github.io/',
 })
